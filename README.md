@@ -1,11 +1,10 @@
 # estocastico
 
-Trabalho: Filtros Digitais em Coordenadas de Coerência e Coordenadas Canônicas
+## Trabalho: Filtros Digitais em Coordenadas de Coerência e Coordenadas Canônicas
 
 Ref.: Wiener Filters in Canonical Coordinates for Transform Coding, Filtering, and Quantizing Louis L. Scharf and John K. Thomas
 
-Disciplina:
-Ementa:
+## Ementa da Disciplina:
 - Probabilidade;
 - Variável aleatória;
 - Variável aleatória simples;
